@@ -14,7 +14,7 @@ In this project I used a combination of Power Query and VBA to scrape the data f
 
 🛜Here is one part of the web scraping M Code:
 
-```JSON
+```
 
 let
     // PART 1 - WEB SCRAPING
