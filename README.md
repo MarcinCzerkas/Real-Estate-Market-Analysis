@@ -1,5 +1,5 @@
 # Introduction
-📊This is a data analysis projects that consists in collecting data regarding real estate internet postings in Warsaw and surrounding counties. I analyzed over 22000 offers and presented the results visually in Power BI.
+📊This is a data analysis project that consists in collecting data regarding real estate internet postings in Warsaw and surrounding counties. I analyzed over 22000 offers and presented the results visually in Power BI.
 
 The final product is a tool that can be used by anyone looking for a house or an appartment. It gathers all data from 4 different websites in one place and enables searching for offers based on location and comparing different offers.
 
