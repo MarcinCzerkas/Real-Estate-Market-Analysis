@@ -1,5 +1,5 @@
 # Introduction
-📊This is a data analysis project that consists in collecting data regarding real estate internet postings in Warsaw and surrounding counties. I analyzed over 22000 offers and presented the results visually in Power BI.
+📊This is a **data analysis** project that consists in collecting data regarding real estate internet postings in Warsaw and surrounding counties. I analyzed over **22000** offers and presented the results visually in Power BI.
 
 The final product is a tool that can be used by anyone looking for a house or an appartment. It gathers all data from 4 different websites in one place and enables searching for offers based on location and comparing different offers.
 
@@ -7,10 +7,12 @@ The final product is a tool that can be used by anyone looking for a house or an
 
 ![Dashboard](/Assets/Photos/Dashboard.png)
 
+A short **demo video** showcasing the project can be found [here](https://youtube.com/shorts/zJpHp8Yv8cQ).
+
 Below you can find a short version of the documentation. To see the full documentation go to [Project Documentation](/Project%20Documentation%20(README)%20Real%20Estate%20Market%20Analysis.pdf).
 
 # Tools I Used
-In this project I used a combination of Power Query and VBA to scrape the data from the internet and to automate this process. Then, I cleaned the data using Power Query and loaded it to Power BI. The results are additionally summarized in form of a Power Point presentation.
+In this project I used a combination of **Power Query** and **VBA** to scrape the data from the internet and to automate this process. Then, I cleaned the data using Power Query and loaded it to **Power BI**. The results are additionally summarized in form of a Power Point presentation.
 
 🛜Here is one part of the web scraping M Code:
 
@@ -190,7 +192,7 @@ For more details I recommend you checking out the [presentation](/Analiza%20ogł
 
 # What I Learned
 
-Working on this project gave me an experience in web scraping which was the most challenging part of it. Among many other things, I learned how to imitate a regular user by forcing my code to wait some time to avoid sending too many requests. This, of course, raised my competences in the Power Query M language and VBA even higher.💪
+Working on this project gave me an experience in **web scraping** which was the most challenging part of it. Among many other things, I learned how to imitate a regular user by forcing my code to wait some time to avoid sending too many requests. This, of course, **raised my competences in the Power Query M language and VBA** even higher.💪
 
 Additionally, while building the dashboard I refreshed some useful concepts of Power BI.
 
@@ -200,6 +202,6 @@ Additionally, while building the dashboard I refreshed some useful concepts of P
 
 Finally, what is the added value of my project?
 
-I developed a tool that might help those who are looking for an apartment to rent or a house to buy. Of course, it is not an exhaustive market analysis. However, the project focuses on the data that such person would like to check anyway – but much slower by checking all websites manually. Thanks to the tool I created all offers are gathered in one place and visualized in a clear way.
+I developed a tool that **might help those who are looking for an apartment to rent or a house to buy**. Of course, it is not an exhaustive market analysis. However, the project focuses on the data that such person would like to check anyway – but much slower by checking all websites manually. Thanks to the tool I created all offers are gathered in one place and visualized in a clear way.
 
-🎉It has been my second data project. The first one was a Power BI dashboard build on top of a SQL database created by me to follow the results of a tabletop game. If you are interested, [check it out](https://github.com/MarcinCzerkas/Project-Middle-earth-SBG)!
+🎉It has been my second data project. The first one was a Power BI dashboard built on top of a SQL database created by me to follow the results and insights of a tabletop game. If you are interested, [check it out](https://github.com/MarcinCzerkas/Project-Middle-earth-SBG)!
